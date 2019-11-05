@@ -17,8 +17,8 @@ ENVIRONMENT=bvt
 
 # the site certificate files (.crt & .key) have to be named after the BASE_URL value
 BASE_URL=cloudswyft.com 
-LMS_URL=oxatest-learning.$BASE_URL
-CMS_URL=oxatest-studio.$BASE_URL
+LMS_URL=oxarepublic-learning.$BASE_URL
+CMS_URL=oxarepublic-studio.$BASE_URL
 PREVIEW_URL=preview.$BASE_URL
 
 # deployment configuration
